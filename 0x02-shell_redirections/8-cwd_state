@@ -1,2 +1,2 @@
 #!/bin/bash
-echo <long list of the files> > <ls_cwd_content>
+echo <ls -la> > <ls_cwd_content>
