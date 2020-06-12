@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -w "root" /eyc/passwd
+grep -w "root" /etc/passwd |wc -l
