@@ -1,2 +1,2 @@
 #!/bin/bash
-find * -mindeph1 -type d | wc -l
+ls -lRa | -type d | wc -l
